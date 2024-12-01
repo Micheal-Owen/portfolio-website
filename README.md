@@ -2,6 +2,8 @@
 
 A modern, responsive portfolio website showcasing my skills, projects, and professional experience.
 
+🌐 **Live Website**: [View Portfolio](https://micheal-owen.github.io/portfolio-website/)
+
 ## Features
 
 - Modern and responsive design
@@ -35,7 +37,8 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 - Email: owenkakembo20@gmail.com
 - LinkedIn: [Owen Kakembo](https://www.linkedin.com/in/owen-kakembo-750813242/)
 - GitHub: [Micheal-Owen](https://github.com/Micheal-Owen)
+- Portfolio: [https://micheal-owen.github.io/portfolio-website/](https://micheal-owen.github.io/portfolio-website/)
 
 ## License
 
-© 2024 Kakembo Owen Ntambi. All rights reserved.
+ 2024 Kakembo Owen Ntambi. All rights reserved.
